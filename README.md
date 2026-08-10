@@ -1,3 +1,4 @@
+# Awar-E, A cross-platform cybersecurity education app. 
 # Run Instructions 
 
 ## 1. Install The Required Tools
